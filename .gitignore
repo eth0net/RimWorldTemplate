@@ -7,3 +7,6 @@
 # dotnet junk
 bin/
 obj/
+
+# macOS junk
+.DS_Store

@@ -3,9 +3,9 @@
   <Excluded>
     <exclude>.git</exclude>
     <exclude>1.5\Source</exclude>
+    <exclude>Assets</exclude>
     <exclude>.gitattributes</exclude>
     <exclude>.gitignore</exclude>
     <exclude>LICENSE</exclude>
-    <exclude>ModTemplate.textstudio</exclude>
   </Excluded>
 </Configuration>
